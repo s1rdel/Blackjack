@@ -1,2 +1,3 @@
 # Blackjack
-This is a java code to implement game called "Blackjack"
+This is a java code to implement game called "Blackjack".
+This Java program simulates a simple Blackjack game using JOptionPane for user interaction. It initializes and shuffles a deck of 52 cards, then deals two cards each to a human player and a computer. The human player decides whether to "stick" or take another card, while the computer follows a basic strategy—drawing cards until it reaches at least 17. The game checks for a winner based on hand values, considering Blackjack rules (face cards worth 10, Aces as 1 or 11). The results are displayed with card ranks and suits, using Unicode symbols. The game ends when a winner is determined, and a message box announces the result.
